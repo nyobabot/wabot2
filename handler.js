@@ -231,10 +231,6 @@ module.exports = {
             fail('mods', m, this)
             continue
           }
-          if (plugin.premium && !isPrems) { // Premium
-            fail('premium', m, this)
-            continue
-          }
           if (plugin.group && !m.isGroup) { // Group Only
             fail('group', m, this)
             continue
