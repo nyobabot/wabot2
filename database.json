@@ -1,0 +1,592 @@
+{
+  "users": {
+    "6289635867363@s.whatsapp.net": {
+      "exp": 934,
+      "limit": 999998,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "mahir",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false
+    },
+    "6289518646963@s.whatsapp.net": {
+      "exp": 16,
+      "limit": 999999,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "+62 895-1864-6963",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false
+    },
+    "62895393333583@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Mahir Bot 3",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false
+    },
+    "6287833701763@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Alah Mbuh",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false
+    },
+    "6289528250190@s.whatsapp.net": {
+      "exp": 477,
+      "limit": 9,
+      "lastclaim": 0,
+      "registered": false,
+      "name": ".",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false
+    },
+    "62895333220751@s.whatsapp.net": {
+      "exp": 639,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "aji",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false
+    },
+    "6285865842657@s.whatsapp.net": {
+      "exp": 913,
+      "limit": 8,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Sipaling",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false
+    },
+    "6288806830494@s.whatsapp.net": {
+      "exp": 158,
+      "limit": 9,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Yogaaa",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false
+    },
+    "6281353458474@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Nopall😎",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false
+    },
+    "628978277008@s.whatsapp.net": {
+      "exp": 118,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Erick",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false
+    },
+    "6282141321468@s.whatsapp.net": {
+      "exp": 35,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "M.Fikar",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false
+    },
+    "6289529717889@s.whatsapp.net": {
+      "exp": 30,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Rokhman_najib",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false
+    },
+    "6282138546718@s.whatsapp.net": {
+      "exp": 116,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "dimas'",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false
+    },
+    "62895325502700@s.whatsapp.net": {
+      "exp": 243,
+      "limit": 9,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Ahmd Suyant",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false
+    },
+    "6281225379244@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Mrs",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false
+    }
+  },
+  "chats": {
+    "6289635867363@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "antiSticker": false,
+      "getmsg": false,
+      "simi": false,
+      "viewonce": false
+    },
+    "62895393333583@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "antiSticker": false,
+      "getmsg": false,
+      "simi": false,
+      "viewonce": false
+    },
+    "62895397205229-1593329036@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "antiSticker": false,
+      "getmsg": false,
+      "simi": false,
+      "viewonce": false
+    },
+    "6287833701763@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "antiSticker": false,
+      "getmsg": false,
+      "simi": false,
+      "viewonce": false
+    },
+    "120363019987362444@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "antiSticker": false,
+      "getmsg": false,
+      "simi": false,
+      "viewonce": false
+    },
+    "6289528250190@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "antiSticker": false,
+      "getmsg": false,
+      "simi": false,
+      "viewonce": false
+    },
+    "62895333220751-1636019326@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "antiSticker": false,
+      "getmsg": false,
+      "simi": false,
+      "viewonce": false
+    },
+    "status@broadcast": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "antiSticker": false,
+      "getmsg": false,
+      "simi": false,
+      "viewonce": false
+    }
+  },
+  "stats": {
+    "menu.js": {
+      "total": 13,
+      "success": 13,
+      "last": 1642416102084,
+      "lastSuccess": 1642416102084
+    },
+    "jadibot.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1642411725282,
+      "lastSuccess": 1642411725282
+    },
+    "suit.js": {
+      "total": 9,
+      "success": 7,
+      "last": 1642420953802,
+      "lastSuccess": 1642420953802
+    },
+    "sticker.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1642410410606,
+      "lastSuccess": 1642410410606
+    },
+    "siapakahaku.js": {
+      "total": 5,
+      "success": 3,
+      "last": 1642412500100,
+      "lastSuccess": 1642412500100
+    },
+    "enable.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1642411679660,
+      "lastSuccess": 1642411679660
+    },
+    "stopjadibot.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1642411811976,
+      "lastSuccess": 1642411811976
+    },
+    "join.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1642411911141,
+      "lastSuccess": 0
+    },
+    "siapakahaku_hint.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1642412527613,
+      "lastSuccess": 1642412527613
+    },
+    "hacker.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1642412648728,
+      "lastSuccess": 1642412648728
+    },
+    "ilham.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1642413447934,
+      "lastSuccess": 1642413447934
+    },
+    "artinama.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1642415671286,
+      "lastSuccess": 1642415671286
+    },
+    "simsimi.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1642416798201,
+      "lastSuccess": 1642416798201
+    },
+    "apakah2.js": {
+      "total": 13,
+      "success": 13,
+      "last": 1642417109293,
+      "lastSuccess": 1642417109293
+    },
+    "apakah.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1642414825521,
+      "lastSuccess": 1642414825521
+    },
+    "kapankah2.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1642414983074,
+      "lastSuccess": 1642414983074
+    },
+    "animeinfo.js": {
+      "total": 5,
+      "success": 0,
+      "last": 1642416109426,
+      "lastSuccess": 0
+    },
+    "broadcast.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1642415194726,
+      "lastSuccess": 1642415194726
+    },
+    "darkjoke.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1642415679915,
+      "lastSuccess": 1642415679915
+    },
+    "caklontong.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1642416317256,
+      "lastSuccess": 1642416317256
+    },
+    "caklontong_hint.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1642416325296,
+      "lastSuccess": 1642416325296
+    },
+    "absen-cekabsen.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1642415862688,
+      "lastSuccess": 1642415862688
+    },
+    "absen-start.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1642415868496,
+      "lastSuccess": 1642415868496
+    },
+    "setname_gc.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1642416041441,
+      "lastSuccess": 1642416041441
+    },
+    "meme.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1642417058028,
+      "lastSuccess": 1642417058028
+    },
+    "hadis.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1642416282872,
+      "lastSuccess": 0
+    },
+    "alkitab.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1642416351629,
+      "lastSuccess": 1642416351629
+    },
+    "asahotak.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1642416393537,
+      "lastSuccess": 1642416393537
+    },
+    "bucin.js": {
+      "total": 8,
+      "success": 8,
+      "last": 1642420810109,
+      "lastSuccess": 1642420810109
+    },
+    "itssostupid.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1642416423692,
+      "lastSuccess": 1642416423692
+    },
+    "voicechanger.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1642416487206,
+      "lastSuccess": 0
+    },
+    "kapankah.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1642416962276,
+      "lastSuccess": 1642416962276
+    },
+    "jodoh.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1642417112951,
+      "lastSuccess": 0
+    },
+    "donasi.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1642419439819,
+      "lastSuccess": 1642419439819
+    },
+    "pikachu.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1642420944079,
+      "lastSuccess": 0
+    }
+  },
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "6289518646963@s.whatsapp.net": {
+      "anticall": false,
+      "autoread": false,
+      "nyimak": false,
+      "restrict": false,
+      "self": false,
+      "pconly": false,
+      "gconly": false,
+      "jadibot": true
+    }
+  }
+}
